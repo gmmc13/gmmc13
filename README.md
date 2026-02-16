@@ -5,17 +5,17 @@ Estudante de programação da EBAC
 
 ### Detalhes
 
-[![Geraldo's GitHub stats](httpsgithub-readme-stats.vercel.appapiusername=gmmc13&show_icons=true&theme=light)](httpsgithub.comgmmc13github-readme-stats)
+[![Anurag's GitHub stats](httpsgithub-readme-stats.vercel.appapiusername=pedrogithub1406&show_icons=true&theme=dark)](httpsgithub.comanuraghazragithub-readme-stats)
 
 ### Projetos
 
-[![Readme Card](httpsgithub-readme-stats.vercel.appapipinusername=gmmc13&repo=variavel&theme=dark)](httpsgithub.comgmmc13github-readme-stats)
+[![Readme Card](httpsgithub-readme-stats.vercel.appapipinusername=githubjavascriptebac&repo=variavel&theme=dark)](httpsgithub.comanuraghazragithub-readme-stats)
 
 ### Linguagens utilizadas
 
-[![Top Langs](httpsgithub-readme-stats.vercel.appapitop-langsusername=gmmc13&layout=compact)](httpsgithub.comgmmc13github-readme-stats)
+[![Top Langs](httpsgithub-readme-stats.vercel.appapitop-langsusername=githubjavascriptebac&layout=compact)](httpsgithub.comanuraghazragithub-readme-stats)
 
 
 ### Contatos
 
-sss
+[img src='httpsimg.shields.iobadgeLinkedIn-0077B5style=for-the-badge&logo=linkedin&logoColor=white' alt='Linkedin' height='30'](httpswww.linkedin.cominpedrobrocaldi)
