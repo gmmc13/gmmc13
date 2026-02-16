@@ -5,4 +5,4 @@ Estudante de programação da EBAC
 
 ### Detalhes
 
-[![Geraldo's GitHub stats](httpsgithub-readme-stats.vercel.appapiusername=gmmc13&show_icons=true&theme=light)]
+[![Geraldo's GitHub stats](httpsgithub-readme-stats.vercel.appapiusername=gmmc13&show_icons=true&theme=light)](httpsgithub.comgmmc13github-readme-stats)
