@@ -10,3 +10,7 @@ Estudante de programação da EBAC
 ### Projetos
 
 [![Readme Card](httpsgithub-readme-stats.vercel.appapipinusername=gmmc13&repo=variavel&theme=light)](httpsgithub.comanuraghazragithub-readme-stats)
+
+### Linguagens utilizadas
+
+[![Top Langs](httpsgithub-readme-stats.vercel.appapitop-langsusername=gmmc13&layout=compact)](httpsgithub.comanuraghazragithub-readme-stats)
