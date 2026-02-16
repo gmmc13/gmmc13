@@ -5,7 +5,7 @@ Estudante de programação da EBAC
 
 ### Detalhes
 
-[![Anurag's GitHub stats](httpsgithub-readme-stats.vercel.appapiusername=pedrogithub1406&show_icons=true&theme=dark)](httpsgithub.comanuraghazragithub-readme-stats)
+[![Geraldo's GitHub stats](httpsgithub-readme-stats.vercel.appapiusername=gmmc13&show_icons=true&theme=dark)](httpsgithub.comanuraghazragithub-readme-stats)
 
 ### Projetos
 
