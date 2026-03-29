@@ -1,7 +1,7 @@
 ## Olá 👋
 
 ###### Sobre o Geraldo
-Estudante de programação da EBAC \n
+Estudante de programação da EBAC <br>
 Estudante Ciência da Computação Newton Paiva Wyden
 
 ### Detalhes
