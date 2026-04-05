@@ -2,7 +2,7 @@
 
 ###### Sobre o Geraldo
 Estudante de programação JavaScript da EBAC <br>
-Estudante Ciência da Computação Newton Paiva Wyden 1o. período
+Estudante de Ciência da Computação Newton Paiva Wyden 1o. período
 
 ### Detalhes
 
