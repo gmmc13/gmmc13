@@ -23,4 +23,4 @@ Texto em __*negrito itálico*__.
 <br>
 <br>
 <br>
-[Link para outra página](/learn.microsoft.com/pt-br/training/azure-devops/shared/media/mara.png)
+Vá para [página](https://depositodearquivos.com/jogos/) de jogos.
